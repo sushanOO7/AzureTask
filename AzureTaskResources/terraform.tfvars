@@ -1,0 +1,5 @@
+prefix               = "mywebapp"
+location             = "East US 2"
+admin_username       = "azureuser"
+ssh_public_key_path  = "/Users/sushan/.ssh/id_rsa.pub"
+sql_admin_password   = "StrongP@ssw0rd2024!"
